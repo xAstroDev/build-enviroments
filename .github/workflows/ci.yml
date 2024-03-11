@@ -1,4 +1,4 @@
-name: 'Citra Docker Image CI'
+name: 'xastrodev Docker Image CI'
 on:
   push:
     branches: ["*"]
