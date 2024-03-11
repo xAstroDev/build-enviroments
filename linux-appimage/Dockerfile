@@ -1,5 +1,5 @@
 FROM ubuntu:20.04
-LABEL maintainer="citraemu"
+LABEL maintainer="xastrodev"
 
 ENV DEBIAN_FRONTEND=noninteractive
 

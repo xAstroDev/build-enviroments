@@ -1,5 +1,5 @@
 FROM ubuntu:23.04
-LABEL maintainer="citraemu"
+LABEL maintainer="xastrodev"
 ENV DEBIAN_FRONTEND=noninteractive
 
 # Create a user account citra (UID 1027) that the container will run as
